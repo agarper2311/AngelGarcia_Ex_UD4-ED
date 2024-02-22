@@ -1,0 +1,12 @@
+D:\Instituto\ED\Unidad-4\AngelGarcia_Ex_UD4-ED\unit-testing-using-nunit\PrimeService\bin\Debug\net8.0\PrimeService.deps.json
+D:\Instituto\ED\Unidad-4\AngelGarcia_Ex_UD4-ED\unit-testing-using-nunit\PrimeService\bin\Debug\net8.0\PrimeService.dll
+D:\Instituto\ED\Unidad-4\AngelGarcia_Ex_UD4-ED\unit-testing-using-nunit\PrimeService\bin\Debug\net8.0\PrimeService.pdb
+D:\Instituto\ED\Unidad-4\AngelGarcia_Ex_UD4-ED\unit-testing-using-nunit\PrimeService\obj\Debug\net8.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Instituto\ED\Unidad-4\AngelGarcia_Ex_UD4-ED\unit-testing-using-nunit\PrimeService\obj\Debug\net8.0\PrimeService.AssemblyInfoInputs.cache
+D:\Instituto\ED\Unidad-4\AngelGarcia_Ex_UD4-ED\unit-testing-using-nunit\PrimeService\obj\Debug\net8.0\PrimeService.AssemblyInfo.cs
+D:\Instituto\ED\Unidad-4\AngelGarcia_Ex_UD4-ED\unit-testing-using-nunit\PrimeService\obj\Debug\net8.0\PrimeService.csproj.CoreCompileInputs.cache
+D:\Instituto\ED\Unidad-4\AngelGarcia_Ex_UD4-ED\unit-testing-using-nunit\PrimeService\obj\Debug\net8.0\PrimeService.sourcelink.json
+D:\Instituto\ED\Unidad-4\AngelGarcia_Ex_UD4-ED\unit-testing-using-nunit\PrimeService\obj\Debug\net8.0\PrimeService.dll
+D:\Instituto\ED\Unidad-4\AngelGarcia_Ex_UD4-ED\unit-testing-using-nunit\PrimeService\obj\Debug\net8.0\refint\PrimeService.dll
+D:\Instituto\ED\Unidad-4\AngelGarcia_Ex_UD4-ED\unit-testing-using-nunit\PrimeService\obj\Debug\net8.0\PrimeService.pdb
+D:\Instituto\ED\Unidad-4\AngelGarcia_Ex_UD4-ED\unit-testing-using-nunit\PrimeService\obj\Debug\net8.0\ref\PrimeService.dll
